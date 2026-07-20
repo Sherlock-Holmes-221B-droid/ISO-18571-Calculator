@@ -4,7 +4,7 @@ This is an interactive ISO score calculator created by me. Users can provide the
 
 ![ISOGUI](Images/ISOCalc.png)
 
-![ResampleGUI](Images/ResampleGUI.png)
+![ResampleGUI](Images/ResampleGUI1.png)
 # ISO 18571 Rating Tool
 
 A Python-based GUI application for evaluating correlation between **Test** and **CAE** signals using the **ISO 18571 Objective Rating Method**.
